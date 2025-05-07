@@ -4,7 +4,7 @@ look into the finder options
 Keep mouse on the expand button (you can have multiple windows of the same app displayed thanks to this). 
 
 See top left of this screenshot
-![[Screenshot 2025-04-08 at 16.10.26.png]]
+![Screenshot 2025-04-08 at 16.10.26.png](https://github.com/AlexisP1909/MacHacks/blob/main/Screenshot%202025-04-08%20at%2016.10.26.png)
 ## Clipboard Manager (presse-papier) 
 I personnaly use Flycut. (Please change the icon to scissors I beg)
 https://formulae.brew.sh/cask/flycut
@@ -40,6 +40,6 @@ Connect to enterprise Github:
 	- open in VS Code
 	- Go to settings, type github, go in GHE.com & GitHub, write your enterprise URI there
 	- fetch all by pressing the button in VSCode
-	 ![[Screenshot 2025-04-28 at 15.51.10.png]]
+	 ![Screenshot 2025-04-28 at 15.51.10.png](https://github.com/AlexisP1909/MacHacks/blob/main/Screenshot%202025-04-28%20at%2015.51.10.png)
 	 -You will be prompted for your Username (eg: Alexis-Pouillieute)
 	 -You will then be prompted for a password, use your Personal Access Token there
